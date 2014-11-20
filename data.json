@@ -1,0 +1,799 @@
+{
+  "jonnyisms": [
+    {
+      "quote": "RAID 0 means zero chance of failure, right?",
+      "name": "Riegel"
+    },
+    {
+      "quote": "I coded it to be risk free.",
+      "name": "Riegel"
+    },
+    {
+      "quote": "if it doesn't work this time, i’ll eat my hat. <img src=\"http://cmil.me/proto-in-hat\" alt=\"Proto in a hat\" />",
+      "name": "proto"
+    },
+    {
+      "quote": "We can solve that problem wearing hats made of money.",
+      "name": "Riegel"
+    },
+    {
+      "quote": "butts.",
+      "name": "Riegel"
+    },
+    {
+      "quote": "I don’t like jeans because there is friction on my knees.",
+      "name": "Amish"
+    },
+    {
+      "quote": "The best things in life are good.",
+      "name": "Amish"
+    },
+    {
+      "quote": "She can't be tall because she's not round enough.",
+      "name": "Amish"
+    },
+    {
+      "quote": "A mouse is the only reason I’ve shot a gun inside.",
+      "name": "Zac"
+    },
+    {
+      "quote": "I can point pretty much anywhere.",
+      "name": "Zac"
+    },
+    {
+      "quote": "Nice beard, you must work out.",
+      "name": "Zac"
+    },
+    {
+      "quote": "It was a team effort...mostly by me.",
+      "name": "Ed"
+    },
+    {
+      "quote": "I don’t even know what I’m eating anymore I’m so high on SCIENCE!",
+      "name": "Annette"
+    },
+    {
+      "quote": "surely everyone knows the best bees in life are jeans.",
+      "name": "Proto"
+    },
+    {
+      "quote": "You want some gum? Here, have some gum.",
+      "name": "Brandle"
+    },
+    {
+      "quote": "Do they serve it at Chili’s? NO? It’s probably shit.",
+      "name": "Ed"
+    },
+    {
+      "quote": "without Shawn's feerless leadershipment of cloudified resource allocations, i would not have been able to deploy a seamless integrated synergized management innovation platform in the proactive manner in which i deployed it.",
+      "name": "MB"
+    },
+    {
+      "quote": "Do you think superman gets bored flying around?",
+      "name": "Brandle"
+    },
+    {
+      "quote": "Because...well...MATH, right?",
+      "name": "Rachel"
+    },
+    {
+      "quote": "I’m going to whack on it with a Riegel hammer and see if it works.",
+      "name": "Riegel"
+    },
+    {
+      "quote": "If I'm going to get punched in the face, it's going to be because I deserve it.",
+      "name": "Zac"
+    },
+    {
+      "quote": "That doesn't sound like a pain in the ass at all.",
+      "name": "Zac"
+    },
+    {
+      "quote": "I make the team better by doing the bare minimum.",
+      "name": "Clint"
+    },
+    {
+      "quote": "Apparently I sat on a chocolate chip from my granola bar this morning so unbeknownst to me it looked like I had poop on my pants all day.",
+      "name": "Amish"
+    },
+    {
+      "quote": "Your dick ratio has really gone up since you moved from customer service.",
+      "name": "SG (to Karleen)"
+    },
+    {
+      "quote": "I’ve always had a really high dick ratio.",
+      "name": "Karleen"
+    },
+    {
+      "quote": "Don’t ruin the dick jokes with your math.",
+      "name": "SG"
+    },
+    {
+      "quote": "Sometimes you just want to destroy everything, you know?",
+      "name": "JLo"
+    },
+    {
+      "quote": "Just because it doesn't work for you doesn't mean it's broken.",
+      "name": "JLo"
+    },
+    {
+      "quote": "I’m a dirty, filthy, Euro.",
+      "name": "Riegel"
+    },
+    {
+      "quote": "I guess baseball is pretty gay.",
+      "name": "Clint"
+    },
+    {
+      "quote": "I'm not here to solve problems.",
+      "name": "MB"
+    },
+    {
+      "quote": "I call it incentive alignment. (said with zero irony)",
+      "name": "NY"
+    },
+    {
+      "quote": "We don’t care about Craftsy.",
+      "name": "Shelly"
+    },
+    {
+      "quote": "Can I email you a hand grenade?",
+      "name": "NY"
+    },
+    {
+      "quote": "All I see is smeary rain.",
+      "name": "Annette"
+    },
+    {
+      "quote": "Jay, you’re a terrorist.",
+      "name": "Mike"
+    },
+    {
+      "quote": "People with beards are creepy.",
+      "name": "Bret"
+    },
+    {
+      "quote": "I wake up to brush my teeth and have to comb my beard free of hookers.",
+      "name": "JLo"
+    },
+    {
+      "quote": "A 200 pound dog!?!? That’s like me in dog form!",
+      "name": "Zac"
+    },
+    {
+      "quote": "Do you know of a spider cake? I need to wish someone happy birthday on Facebook.",
+      "name": "Clint"
+    },
+    {
+      "quote": "(JLo to Zac) Are you wearing a button in your hair?<br />Ooops.",
+      "name": "Zac"
+    },
+    {
+      "quote": "pollen is nature’s bukakke.",
+      "name": "David"
+    },
+    {
+      "quote": "It’s starting to look pretty French up here.",
+      "name": "JLo"
+    },
+    {
+      "quote": "We should hire that guy so he can sit in a corner and never touch the Internet again.",
+      "name": "Zac"
+    },
+    {
+      "quote": "You can’t just Google Love.",
+      "name": "J.Lo"
+    },
+    {
+      "quote": "I hoard it into my mouth.",
+      "name": "Todd"
+    },
+    {
+      "quote": "This will open it up to the Internet of Dicks (IOD).",
+      "name": "Shawn"
+    },
+    {
+      "quote": "Sadly, the fix for that is *whale noises*.",
+      "name": "Riegel"
+    },
+    {
+      "quote": "We promised 7 9’s reliability? I don’t even love my wife with 7 9’s.",
+      "name": "MB"
+    },
+    {
+      "quote": "It seems I've sat on a wasp. Again.",
+      "name": "Annette"
+    },
+    {
+      "quote": "For 15 bucks I got myself a pair of shoes and a sweet-ass fanny pack.",
+      "name": "Zac"
+    },
+    {
+      "quote": "Your kids are going to have wider faces - (in relation to Asian children)<br />There’s nothing wrong with wider faces.",
+      "name": "Jill"
+    },
+    {
+      "quote": "Check it out! A picture of The Rock wearing a fanny pack!",
+      "name": "Zac"
+    },
+    {
+      "quote": "The repository is not exactly happy. There doesn't seem to be a master branch.",
+      "name": "Peisley"
+    },
+    {
+      "quote": "I did learn yesterday that Kendra is the most heartless person ever.",
+      "name": "Clint"
+    },
+    {
+      "quote": "I don’t think this is going to be annoying at all. (About AngularJS).",
+      "name": "Zac"
+    },
+    {
+      "quote": "There may be an edge case where it doesn’t break.",
+      "name": "SG"
+    },
+    {
+      "quote": "This is a bad thing, why did I do this?",
+      "name": "Shelly"
+    },
+    {
+      "quote": "Front-end Architecture: we shove everything into JSPs.",
+      "name": "Konkle"
+    },
+    {
+      "quote": "Oh, I bet that’s because - yep - I'm fucking genius.",
+      "name": "Zac"
+    },
+    {
+      "quote": "If only we lived in the future - which is now!",
+      "name": "Amish"
+    },
+    {
+      "quote": "The first rule here is don’t trust anything I say.",
+      "name": "Amish"
+    },
+    {
+      "quote": "Well, I do what I can. Which we all know is just short of making things work.",
+      "name": "Amish"
+    },
+    {
+      "quote": "I hate JavaScript.",
+      "name": "Amish"
+    },
+    {
+      "quote": "I’m pretty bug free at the moment.",
+      "name": "Zac"
+    },
+    {
+      "quote": "I was eating my salad for lunch and half of it was beard.",
+      "name": "JLo"
+    },
+    {
+      "quote": "Admin really needs to go through a major cleanup.",
+      "name": "Matt W"
+    },
+    {
+      "quote": "Man, sloths used to be bad-ass.",
+      "name": "Matt W"
+    },
+    {
+      "quote": "I just lost my burrito.",
+      "name": "Amish"
+    },
+    {
+      "quote": "Don't tell anyone, I accidentally spilt bacon bits into the vegetarian chili... and I didn't clean it up.",
+      "name": "Clint"
+    },
+    {
+      "quote": "Do you NOT shampoo your beard???",
+      "name": "Amish"
+    },
+    {
+      "quote": "All I know is there is a monkey somewhere with a water bottle that’s supposed to be mine.",
+      "name": "SG"
+    },
+    {
+      "quote": "I saw a cat walking down the street with a full on adult bunny in its mouth. I called to it, you know - *holds out hand and meows*.",
+      "name": "NY"
+    },
+    {
+      "quote": "I'm going to hit up our java guys in the morning hoping they can translate into COBOL for me.",
+      "name": "unnamed JoAnn developer"
+    },
+    {
+      "quote": "That is something which came out of the bowels of history.",
+      "name": "NY"
+    },
+    {
+      "quote": "To be fair, Kirk doesn’t really count.",
+      "name": "Amish"
+    },
+    {
+      "quote": "ProductForSaleAdminController:563 <pre>!StringUtil.notEmpty( request.getParameter( \"base.id\" ) )</pre>.",
+      "name": "Zac"
+    },
+    {
+      "quote": "My feelings have amazing abs right now.",
+      "name": "JLo"
+    },
+    {
+      "quote": "Why not just get a job at the deli if you need money?",
+      "name": "Proto"
+    },
+    {
+      "quote": "Still no bagels but I got a sucker.",
+      "name": "Zac"
+    },
+    {
+      "quote": "I was making fun of paraplegics.",
+      "name": "Bret"
+    },
+    {
+      "quote": "It’s really funny to watch turkeys try and fly... you just have to scare them enough.",
+      "name": "Zac"
+    },
+    {
+      "quote": "See this thing? Fuck it<br />alternate transcription...<br />See this thing, in general? Fuck it… from an architectural perspective.",
+      "name": "Riegel"
+    },
+    {
+      "quote": "Because gremlins.",
+      "name": "Riegel"
+    },
+    {
+      "quote": "My god taking these things off make my eyes feel fuzzy!",
+      "name": "Matt W"
+    },
+    {
+      "quote": "I think if you’re a financial banker and have never seen Star Wars, you’re okay.",
+      "name": "Gregory"
+    },
+    {
+      "quote": "Well, not if you’re a financial banker.",
+      "name": "Riegel"
+    },
+    {
+      "quote": "Sorry I suggested you had no conscience, or empathy.",
+      "name": "Jill"
+    },
+    {
+      "quote": "My knees hurt, and I got the meat sweats.",
+      "name": "Jay"
+    },
+    {
+      "quote": "Wait! Isn’t bigint, like, … fucking big?",
+      "name": "Riegel"
+    },
+    {
+      "quote": "Sandwiches just take so much effort to eat!",
+      "name": "Amish"
+    },
+    {
+      "quote": "But I don’t have a lot of $20’s in me.",
+      "name": "Amish"
+    },
+    {
+      "quote": "Spelling bee kids have to remember a craptop about roots, etc.",
+      "name": "Amish"
+    },
+    {
+      "quote": "I think you mean there’s tiny men trying to grab each other.",
+      "name": "Zac"
+    },
+    {
+      "quote": "Firefox continues to load things perfectly.",
+      "name": "Amish"
+    },
+    {
+      "quote": "They can’t substitute cat for lobster - I know I’ve tried.",
+      "name": "Matt W"
+    },
+    {
+      "quote": "I don’t think you can just call me a bucket of yuck, you have to call me a bucket of awesome.",
+      "name": "Karleen"
+    },
+    {
+      "quote": "It’s ironic that you throw like a meth head?",
+      "name": "SG"
+    },
+    {
+      "quote": "*@sympoz.com -> spam = 100% increase in productivity.",
+      "name": "JLo"
+    },
+    {
+      "quote": "Previous implies past.",
+      "name": "CK"
+    },
+    {
+      "quote": "It would have been easier if I hadn't already done it.",
+      "name": "Todd"
+    },
+    {
+      "quote": "What i really want is a nice summer dress.",
+      "name": "SG"
+    },
+    {
+      "quote": "I’m channelling the warrior spirit of Hitler.",
+      "name": "Zac"
+    },
+    {
+      "quote": "currentTime is undefined.",
+      "name": "Sentry"
+    },
+    {
+      "quote": "You must be intolerable to live with!",
+      "name": "from todd to Melissa"
+    },
+    {
+      "quote": "No one is ever going to be able to read my code.",
+      "name": "Konkle"
+    },
+    {
+      "quote": "Please don't do all of the things that you usually don't do.",
+      "name": "Amy Graham"
+    },
+    {
+      "quote": "I am spider man.",
+      "name": "Zac"
+    },
+    {
+      "quote": "I didn’t realize how easy it is to stain your dog!",
+      "name": "Brandle"
+    },
+    {
+      "quote": "Mushrooms are NOT that hard to get.",
+      "name": "Konkle"
+    },
+    {
+      "quote": "Today’s a perfect day to start a fire.",
+      "name": "SG"
+    },
+    {
+      "quote": "I HATE building Ecommerce sites!",
+      "name": "Matt W"
+    },
+    {
+      "quote": "...isn’t that what you’re doing right now?",
+      "name": "Karleen"
+    },
+    {
+      "quote": "Technically… (brandle 'jumps' and barely leaves the ground)<br />...that just moved the earth.",
+      "name": "Brandle"
+    },
+    {
+      "quote": "I will shove this water bottle down your throat!",
+      "name": "Amish"
+    },
+    {
+      "quote": "Llamas aren't good at unit tests.",
+      "name": "Amish"
+    },
+    {
+      "quote": "Chandler is my spirit animal.",
+      "name": "Justin"
+    },
+    {
+      "quote": "Oh my god there are so many dead animal poses.",
+      "name": "Zac"
+    },
+    {
+      "quote": "These Amish people burn so well!",
+      "name": "JLo"
+    },
+    {
+      "quote": "Speaking of funny classes like Drowning Children,.",
+      "name": "SG"
+    },
+    {
+      "quote": "What you said makes no sense because you’re not Brian.",
+      "name": "Amish"
+    },
+    {
+      "quote": "Today is Friday, and it was yesterday yesterday.",
+      "name": "Zac"
+    },
+    {
+      "quote": "Chandler is cute.",
+      "name": "Matt W"
+    },
+    {
+      "quote": "I have a pair of hands.",
+      "name": "Proto"
+    },
+    {
+      "quote": "How do you make a voodoo doll of the server?",
+      "name": "Zac"
+    },
+    {
+      "quote": "So Japan finally made something useful. Again.",
+      "name": "Matt W"
+    },
+    {
+      "quote": "(while sitting down)<br />I don’t know how I am still standing upright.",
+      "name": "Konkle"
+    },
+    {
+      "quote": "It’s just little stuffs you can buy that allow you to do things.",
+      "name": "Kirsten"
+    },
+    {
+      "quote": "I like his violence! (while discussing Amish).",
+      "name": "Matt W"
+    },
+    {
+      "quote": "I’ve never before been compared to the hot girl at prom. So thank you.” -- Amish"
+    },
+    {
+      "quote": "I need a chair for my feet, though.",
+      "name": "Karleen"
+    },
+    {
+      "quote": "Not now guys, Amish is fixing a bug and I need him to have high self confidence.",
+      "name": "Karleen"
+    },
+    {
+      "quote": "Buttermilk? Are you talking about Amish’s skin?",
+      "name": "Karleen"
+    },
+    {
+      "quote": "I do have the neanderthal ridge. Right here.",
+      "name": "Matt W"
+    },
+    {
+      "quote": "Are your knees chafing right now?",
+      "name": "Matt W"
+    },
+    {
+      "quote": "I am REALLY noisy when I’m tired.",
+      "name": "Amish"
+    },
+    {
+      "quote": "I can be very feisty - I have my own pick knife. Someday I’m going to cut somebody.",
+      "name": "Karleen"
+    },
+    {
+      "quote": "I’ve strived to be used inappropriately here since I started.",
+      "name": "Gregory"
+    },
+    {
+      "quote": "bronies aren't creepy.",
+      "name": "Konkle"
+    },
+    {
+      "quote": "The overcast sky just makes me unproductive.",
+      "name": "Zac"
+    },
+    {
+      "quote": "I would thrive in a post-apocalyptic setting. If 90% of the world’s population were killed I would be SO happy.",
+      "name": "Kirk"
+    },
+    {
+      "quote": "I just say, 'Ok, Fauxbro', and it turns on in my pants.",
+      "name": "Matt W"
+    },
+    {
+      "quote": "Get a handle on your Brandle!",
+      "name": "Jlo"
+    },
+    {
+      "quote": "I’m hurtin' for a tight end right now.",
+      "name": "Zac"
+    },
+    {
+      "quote": "I always chandler correctly.",
+      "name": "Amish"
+    },
+    {
+      "quote": "There is usually a hidden flap.",
+      "name": "Matt W"
+    },
+    {
+      "quote": "I’m still struggling with number two, here.",
+      "name": "Matt W"
+    },
+    {
+      "quote": "Well, I didn't know if I was unbeknowenstly streaming or not.",
+      "name": "Matt W"
+    },
+    {
+      "quote": "I’m not sure I’ve ever really touched a cat.",
+      "name": "Karleen"
+    },
+    {
+      "quote": "I think it is much more natural to eat animals than it is to love them.",
+      "name": "Karleen"
+    },
+    {
+      "quote": "I would say 'grab my chair', but it seems to have gone MISSING!... Oh wait, I’m sitting in it.",
+      "name": "Matt W"
+    },
+    {
+      "quote": "Wait, are wingdings the same as wings?",
+      "name": "Matt W"
+    },
+    {
+      "quote": "I wish I was a cheese danish, that would be the life.",
+      "name": "Matt W"
+    },
+    {
+      "quote": "That’s like one of the best motivators: sadness.",
+      "name": "Proto"
+    },
+    {
+      "quote": "I didn't realize you had a banana until it was too late.",
+      "name": "Zac"
+    },
+    {
+      "quote": "only truly crazy people paint their cats.",
+      "name": "Noah"
+    },
+    {
+      "quote": "good morning friends, lovely day isn't it?",
+      "name": "Noah"
+    },
+    {
+      "quote": "just so you all know, in the zombie apocalypse i would kill you all. no dramatic hesitation.",
+      "name": "Noah"
+    },
+    {
+      "quote": "I’m going to go stare at Konkle again.",
+      "name": "Annette"
+    },
+    {
+      "quote": "I can’t believe Mark Udall would do such a thing.<br />What did he do?<br />I don’t know.",
+      "name": "Matt W"
+    },
+    {
+      "quote": "I don’t know if your beard got shorter or your face got longer.",
+      "name": "Alison"
+    },
+    {
+      "quote": "One of these days ... I’m gonna[sic] yank hard enough on it i’m just going to break it.",
+      "name": "Matt W"
+    },
+    {
+      "quote": "I decided I wanted to be just like Chandler, so I brought in some sausage.",
+      "name": "bkonkle"
+    },
+    {
+      "quote": "This has been customer role playing with your QA department.",
+      "name": "Annette"
+    },
+    {
+      "quote": "Do we know any wizards?",
+      "name": "Riegel"
+    },
+    {
+      "quote": "You're not going to get any of the celebratory meat.",
+      "name": "Annette"
+    },
+    {
+      "quote": "I’m going to keep wiggling these until somebody eats them.",
+      "name": "Annette"
+    },
+    {
+      "quote": "CK has one quote and it is not funny at all.",
+      "name": "Karleen"
+    },
+    {
+      "quote": "Somebody hang me upside down.",
+      "name": "Zac"
+    },
+    {
+      "quote": "I’m having a bad joystick day.",
+      "name": "JLo"
+    },
+    {
+      "quote": "You hit it so hard, two came out.",
+      "name": "Mur"
+    },
+    {
+      "quote": "Pretty sure you can’t have a big one when you win.",
+      "name": "Bret"
+    },
+    {
+      "quote": "the answer is fuck em. the question is irrelevant.",
+      "name": "murr"
+    },
+    {
+      "quote": "That explains why every time I drink a Monster I want to stab babies!",
+      "name": "Zac"
+    },
+    {
+      "quote": "The cold just assaulted my face!",
+      "name": "Shelly"
+    },
+    {
+      "quote": "My eyes themselves have a spam filter.",
+      "name": "Zac"
+    },
+    {
+      "quote": "I wish I had harpoons in my feet.",
+      "name": "Zac"
+    },
+    {
+      "quote": "I am the female equivalent of [Matt] Webb.",
+      "name": "Annette"
+    },
+    {
+      "quote": "i don’t think i’ve ever been near a cow before.",
+      "name": "Karleen"
+    },
+    {
+      "quote": "i think im allergic to horses...but im not sure.",
+      "name": "Karleen"
+    },
+    {
+      "quote": "what about Splunk?",
+      "name": "Devin"
+    },
+    {
+      "quote": "After a while you start to feel good, because you’re hurting yourself.",
+      "name": "JLo"
+    },
+    {
+      "quote": "Have you ever tried Magic? It’s good shit!",
+      "name": "Legolas"
+    },
+    {
+      "quote": "THEY'RE LOOKING AT THE HOLE!",
+      "name": "Amish"
+    },
+    {
+      "quote": "The scary thing is that skull has better facial hair than I do.",
+      "name": "Nick M."
+    },
+    {
+      "quote": "Now I want to disconnect my phone from WiFi and do a quick search….",
+      "name": "Konkle"
+    },
+    {
+      "quote": "I am a ravenous meat eater - plus mushrooms.",
+      "name": "Konkle"
+    },
+    {
+      "quote": "I don’t want a sandwich on my pizza!",
+      "name": "Amish"
+    },
+    {
+      "quote": "Alright, let’s watch this explode.",
+      "name": "Zac"
+    },
+    {
+      "quote": "You know, I really do everything I can.",
+      "name": "Zac"
+    },
+    {
+      "quote": "I hate when I’m in code and I start to get this nervous feeling.",
+      "name": "Zac"
+    },
+    {
+      "quote": "Bret, someone scraped your crap off the window.",
+      "name": "Zac"
+    },
+    {
+      "quote": "I like me a well prepared man.",
+      "name": "Matt W"
+    },
+    {
+      "quote": "I like looking at pictures of cats but i don’t have a cat.",
+      "name": "Zac"
+    },
+    {
+      "quote": "You know, because Pepe La Pew was kind of rapey",
+      "name": "Zac"
+    },
+    {
+      "quote": "I’ve had too much caffeine today, I’m sweating.",
+      "name": "Karleen"
+    },
+    {
+      "quote": "Don’t be such a Karleen, Karleen.",
+      "name": "Neil"
+    },
+    {
+      "quote": "It’s like saying you can't use a pencil on penpaper",
+      "name": "Zac"
+    }
+  ]
+}
